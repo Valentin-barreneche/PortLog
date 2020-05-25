@@ -1,0 +1,47 @@
+﻿@model IEnumerable<PortLog.ViewModels.ProductoViewModel>
+
+@{
+    ViewBag.Title = "TraerProductos";
+}
+
+<h2>TraerProductos</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codigo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                @if (Session["rol"].ToString() == "deposito") {
+                <td>
+                 <a name="@item.Codigo" href="~/Importacion/Index/@item.Codigo">Hacer Importacion</a>
+                 </td>
+                }
+                
+            </tr>
+        }
+    
+
+
+</table>

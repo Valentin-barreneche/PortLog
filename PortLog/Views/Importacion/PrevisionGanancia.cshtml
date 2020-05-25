@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Dominio.Cliente>
+
+@{
+    ViewBag.Title = "PrevisionGanancia";
+}
+
+<h2>PrevisionGanancia</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AntiguedadFecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rut)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AntiguedadFecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rut)
+        </td>
+        <td>
+            <a name="@item.Rut" href="~/Importacion/CalcularGanancia/@item.Rut">Calcular ganancia</a>
+        </td>
+    </tr>
+}
+
+</table>

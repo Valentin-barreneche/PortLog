@@ -1,0 +1,11 @@
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\WcfServicePortLog1.dll.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\WcfServicePortLog1.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\WcfServicePortLog1.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\Repositorios.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\bin\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\obj\Debug\WcfServicePortLog1.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\obj\Debug\WcfServicePortLog1.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\obj\Debug\WcfServicePortLog1.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\WcfServicePortLog1\obj\Debug\WcfServicePortLog1.pdb

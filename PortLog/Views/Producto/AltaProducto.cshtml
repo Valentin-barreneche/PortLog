@@ -1,0 +1,57 @@
+﻿@model Dominio.Producto
+
+@{
+    ViewBag.Title = "AltaProducto";
+}
+
+<h2>AltaProducto</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Producto</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.PesoUnidad, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PesoUnidad, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PesoUnidad, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <select name="rut">
+            @foreach (Dominio.Cliente unC in ViewBag.listaClientes)
+            {
+                <option value="@unC.Rut">@unC.Nombre</option>
+            }
+        </select>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@if (ViewBag.mensaje != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.mensaje
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

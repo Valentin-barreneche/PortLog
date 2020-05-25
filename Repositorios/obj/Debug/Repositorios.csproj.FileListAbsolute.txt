@@ -1,0 +1,25 @@
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Repositorios\obj\Debug\Repositorios.pdb

@@ -1,0 +1,16 @@
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\bin\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Dominio\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Dominio\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Dominio\obj\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache

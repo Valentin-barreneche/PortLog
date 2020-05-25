@@ -1,0 +1,390 @@
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Repositorios.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Helpers.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Mvc.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Repositorios.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Helpers.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Mvc.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.pdb
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.exe
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.exe
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.rsp
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.AppContext.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Console.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.exe
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valentin\Desktop\Programacion 3\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.dll.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\PortLog.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.exe
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.exe.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csc.rsp
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.exe
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.exe.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\csi.rsp
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Console.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.exe
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\vbc.rsp
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Dominio.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Repositorios.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Helpers.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Mvc.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Razor.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Dominio.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Razor.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Helpers.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\System.Web.Mvc.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.dll
+C:\Users\Peche\Documents\Programacion 3\OBL1\Obligatorio MVC P3\PortLog\PortLog\obj\Debug\PortLog.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\PortLog.dll.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\PortLog.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\PortLog.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csc.exe
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csc.exe.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csc.rsp
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csi.exe
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csi.exe.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\csi.rsp
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Console.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\vbc.exe
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\vbc.rsp
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Repositorios.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Helpers.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Mvc.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Razor.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Repositorios.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Razor.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Helpers.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\System.Web.Mvc.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\obj\Debug\PortLog.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\obj\Debug\PortLog.dll
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\obj\Debug\PortLog.pdb
+C:\Users\Peche\Documents\Programacion3\RepoGitObli1\PortLog-master\PortLog\obj\Debug\PortLog.csprojAssemblyReference.cache
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\PortLog.dll.config
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\PortLog.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\PortLog.pdb
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csc.exe
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csc.exe.config
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csc.rsp
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csi.exe
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csi.exe.config
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\csi.rsp
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Console.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\vbc.exe
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\vbc.rsp
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Dominio.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Repositorios.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Helpers.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Mvc.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Razor.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Dominio.pdb
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Repositorios.pdb
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Razor.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Helpers.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\System.Web.Mvc.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\obj\Debug\PortLog.csproj.CopyComplete
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\obj\Debug\PortLog.dll
+C:\Users\Peche\Downloads\E-26949-1\PortLog 5\PortLog\obj\Debug\PortLog.pdb
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\PortLog.dll.config
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\PortLog.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\PortLog.pdb
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csc.exe
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csc.exe.config
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csc.rsp
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csi.exe
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csi.exe.config
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\csi.rsp
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Console.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\vbc.exe
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\vbc.rsp
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Dominio.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Repositorios.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Helpers.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Mvc.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Razor.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Dominio.pdb
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Repositorios.pdb
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Razor.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Helpers.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\System.Web.Mvc.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\obj\Debug\PortLog.csprojAssemblyReference.cache
+C:\Users\Peche\Downloads\PortLog 5\PortLog\obj\Debug\PortLog.csproj.CopyComplete
+C:\Users\Peche\Downloads\PortLog 5\PortLog\obj\Debug\PortLog.dll
+C:\Users\Peche\Downloads\PortLog 5\PortLog\obj\Debug\PortLog.pdb
